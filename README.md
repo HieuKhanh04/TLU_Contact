@@ -1,2 +1,3 @@
 # TLUContact_web
-TLUContact but in web
+Dự án bài tập lớn TLUContact của các sinh viên trường đại học Thủy lợi
+
